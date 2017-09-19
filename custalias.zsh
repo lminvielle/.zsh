@@ -73,3 +73,5 @@ alias lsd="ls -d */"
 alias sources="v /etc/apt/sources.list"
 
 musescore2() { cd /home/ludo/Documents/MuseScore2/; ./MuseScore-2.0.3-x86_64.AppImage;}
+
+alias chrome="/usr/bin/google-chrome-stable"
