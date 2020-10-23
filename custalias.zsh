@@ -64,7 +64,7 @@ alias df="df -h"
 alias vimrc="vim ~/.vimrc"
 alias zshrc="vim ~/.zshrc"
 
-alias py="python3"
+alias py="python3.5"
 alias ipy="ipython3"
 alias dropbox="~/.dropbox-dist/dropboxd &"
 count() { ls $1 | wc -l;}
@@ -73,5 +73,6 @@ alias lsd="ls -d */"
 alias sources="v /etc/apt/sources.list"
 
 musescore2() { cd /home/ludo/Documents/MuseScore2/; ./MuseScore-2.0.3-x86_64.AppImage;}
+musescore3() { cd /home/ludo/Documents/MuseScore3/; ./MuseScore-3.4.2-x86_64.AppImage;}
 
 alias chrome="/usr/bin/google-chrome-stable"
